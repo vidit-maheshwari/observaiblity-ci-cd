@@ -39,4 +39,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: viditmaheshwari/node-app:latest
+          tags: viditmaheshwari/node-app2:latest

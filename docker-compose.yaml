@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   node-app:
-    image: viditmaheshwari/node-app:latest
+    image: viditmaheshwari/node-app2:latest
     ports:
       - "8000:8000"
     networks:
